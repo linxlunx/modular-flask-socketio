@@ -3,7 +3,7 @@
 ## Overview
 Flask socketio with blueprint implementation.
 
-# Run
+## Run
 Install the requirements.
 ```
 $ pip install -r requirements.txt
@@ -37,6 +37,6 @@ $ docker build . -t alpine:modular-flask-socketio
 $ docker run -p 5000:5000 --rm -it alpine:modular-flask-socketio
 ```
 
-### LICENSE
+## LICENSE
 
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+The MIT License (MIT). Please see [License File](LICENSE) for more information.
